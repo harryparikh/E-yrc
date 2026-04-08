@@ -1,0 +1,13 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from hb_interfaces/msg/Poses2D.msg
+// generated code does not contain a copyright notice
+
+#include "hb_interfaces/msg/Pose2D.idl"
+
+module hb_interfaces {
+  module msg {
+    struct Poses2D {
+      sequence<hb_interfaces::msg::Pose2D> poses;
+    };
+  };
+};

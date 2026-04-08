@@ -1,0 +1,6 @@
+Invoking command in '/home/harry/hb_ws/build/eyantrasim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/harry/hb_ws/src/eyrc-25-26-holo-battalion/eyantrasim -DCMAKE_INSTALL_PREFIX=/home/harry/hb_ws/install/eyantrasim
+Invoked command in '/home/harry/hb_ws/build/eyantrasim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/harry/hb_ws/src/eyrc-25-26-holo-battalion/eyantrasim -DCMAKE_INSTALL_PREFIX=/home/harry/hb_ws/install/eyantrasim
+Invoking command in '/home/harry/hb_ws/build/eyantrasim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/harry/hb_ws/build/eyantrasim -- -j28 -l28
+Invoked command in '/home/harry/hb_ws/build/eyantrasim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/harry/hb_ws/build/eyantrasim -- -j28 -l28
+Invoking command in '/home/harry/hb_ws/build/eyantrasim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/harry/hb_ws/build/eyantrasim
+Invoked command in '/home/harry/hb_ws/build/eyantrasim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/harry/hb_ws/build/eyantrasim

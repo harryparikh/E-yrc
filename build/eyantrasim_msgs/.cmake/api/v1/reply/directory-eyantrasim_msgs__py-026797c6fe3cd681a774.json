@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "eyantrasim_msgs__py",
+		"source" : "/home/harry/hb_ws/build/eyantrasim_msgs/eyantrasim_msgs__py"
+	}
+}

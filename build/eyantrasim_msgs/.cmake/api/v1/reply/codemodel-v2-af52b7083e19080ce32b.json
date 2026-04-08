@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-9dde51ab5850dceacf5e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "eyantrasim_msgs__py",
+					"jsonFile" : "directory-eyantrasim_msgs__py-026797c6fe3cd681a774.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/harry/hb_ws/build/eyantrasim_msgs/eyantrasim_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "eyantrasim_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_eyantrasim_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_eyantrasim_msgs_egg-5802beb29e77ae5271f6.json",
+					"name" : "ament_cmake_python_build_eyantrasim_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_eyantrasim_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_eyantrasim_msgs-a07e0595fe86e1a5085f.json",
+					"name" : "ament_cmake_python_symlink_eyantrasim_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eyantrasim_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eyantrasim_msgs-a91e1020c9a7f3f467c2.json",
+					"name" : "eyantrasim_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eyantrasim_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eyantrasim_msgs__cpp-d206dc4be850cd7e96da.json",
+					"name" : "eyantrasim_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "eyantrasim_msgs__py::@0e20864fd4cf029916df",
+					"jsonFile" : "target-eyantrasim_msgs__py-9857c88a5de70435966b.json",
+					"name" : "eyantrasim_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eyantrasim_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eyantrasim_msgs__rosidl_generator_c-8dc76b41069a32357fdb.json",
+					"name" : "eyantrasim_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eyantrasim_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eyantrasim_msgs__rosidl_generator_py-494b5c8c81db11be472d.json",
+					"name" : "eyantrasim_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eyantrasim_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eyantrasim_msgs__rosidl_typesupport_c-699bed45e9a4c8fa22cf.json",
+					"name" : "eyantrasim_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eyantrasim_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eyantrasim_msgs__rosidl_typesupport_c__pyext-54c204e242f547b8bf4c.json",
+					"name" : "eyantrasim_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eyantrasim_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eyantrasim_msgs__rosidl_typesupport_cpp-78f214509edb4be62f60.json",
+					"name" : "eyantrasim_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eyantrasim_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eyantrasim_msgs__rosidl_typesupport_fastrtps_c-bd7689d75711658c37af.json",
+					"name" : "eyantrasim_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eyantrasim_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eyantrasim_msgs__rosidl_typesupport_fastrtps_c__pyext-33e81d050701c60cafb1.json",
+					"name" : "eyantrasim_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eyantrasim_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eyantrasim_msgs__rosidl_typesupport_fastrtps_cpp-1fc1079a4d04c6ffe547.json",
+					"name" : "eyantrasim_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eyantrasim_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eyantrasim_msgs__rosidl_typesupport_introspection_c-db2529793f413d9da348.json",
+					"name" : "eyantrasim_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eyantrasim_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eyantrasim_msgs__rosidl_typesupport_introspection_c__pyext-99c2b7f4f1e7248ab845.json",
+					"name" : "eyantrasim_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eyantrasim_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eyantrasim_msgs__rosidl_typesupport_introspection_cpp-75ef6e7581b66643c19b.json",
+					"name" : "eyantrasim_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eyantrasim_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eyantrasim_msgs_uninstall-0f20d3cef026f3a10352.json",
+					"name" : "eyantrasim_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-643969cbfd0037a36e78.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/harry/hb_ws/build/eyantrasim_msgs",
+		"source" : "/home/harry/hb_ws/src/eyrc-25-26-holo-battalion/eyantrasim_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

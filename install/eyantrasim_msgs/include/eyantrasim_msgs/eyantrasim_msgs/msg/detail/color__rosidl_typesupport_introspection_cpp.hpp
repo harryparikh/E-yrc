@@ -1,0 +1,1 @@
+/home/harry/hb_ws/build/eyantrasim_msgs/rosidl_typesupport_introspection_cpp/eyantrasim_msgs/msg/detail/color__rosidl_typesupport_introspection_cpp.hpp

@@ -1,0 +1,23 @@
+[0.016s] Invoking command in '/home/harry/hb_ws/build/hb_control': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/harry/hb_ws/build/hb_control -- -j28 -l28
+[0.080s] Invoked command in '/home/harry/hb_ws/build/hb_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/harry/hb_ws/build/hb_control -- -j28 -l28
+[0.084s] Invoking command in '/home/harry/hb_ws/build/hb_control': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/harry/hb_ws/build/hb_control
+[0.089s] -- Install configuration: ""
+[0.090s] -- Execute custom install script
+[0.091s] -- Up-to-date symlink: /home/harry/hb_ws/install/hb_control/lib/hb_control/holonomic_perception.py
+[0.091s] -- Up-to-date symlink: /home/harry/hb_ws/install/hb_control/lib/hb_control/holonomic_controller.py
+[0.092s] -- Up-to-date symlink: /home/harry/hb_ws/install/hb_control/share/ament_index/resource_index/package_run_dependencies/hb_control
+[0.092s] -- Up-to-date symlink: /home/harry/hb_ws/install/hb_control/share/ament_index/resource_index/parent_prefix_path/hb_control
+[0.093s] -- Up-to-date symlink: /home/harry/hb_ws/install/hb_control/share/hb_control/environment/ament_prefix_path.sh
+[0.094s] -- Up-to-date symlink: /home/harry/hb_ws/install/hb_control/share/hb_control/environment/ament_prefix_path.dsv
+[0.094s] -- Up-to-date symlink: /home/harry/hb_ws/install/hb_control/share/hb_control/environment/path.sh
+[0.094s] -- Up-to-date symlink: /home/harry/hb_ws/install/hb_control/share/hb_control/environment/path.dsv
+[0.095s] -- Up-to-date symlink: /home/harry/hb_ws/install/hb_control/share/hb_control/local_setup.bash
+[0.095s] -- Up-to-date symlink: /home/harry/hb_ws/install/hb_control/share/hb_control/local_setup.sh
+[0.095s] -- Up-to-date symlink: /home/harry/hb_ws/install/hb_control/share/hb_control/local_setup.zsh
+[0.096s] -- Up-to-date symlink: /home/harry/hb_ws/install/hb_control/share/hb_control/local_setup.dsv
+[0.096s] -- Symlinking: /home/harry/hb_ws/install/hb_control/share/hb_control/package.dsv
+[0.106s] -- Up-to-date symlink: /home/harry/hb_ws/install/hb_control/share/ament_index/resource_index/packages/hb_control
+[0.106s] -- Up-to-date symlink: /home/harry/hb_ws/install/hb_control/share/hb_control/cmake/hb_controlConfig.cmake
+[0.106s] -- Up-to-date symlink: /home/harry/hb_ws/install/hb_control/share/hb_control/cmake/hb_controlConfig-version.cmake
+[0.107s] -- Up-to-date symlink: /home/harry/hb_ws/install/hb_control/share/hb_control/package.xml
+[0.110s] Invoked command in '/home/harry/hb_ws/build/hb_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/harry/hb_ws/build/hb_control

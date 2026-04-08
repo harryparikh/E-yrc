@@ -1,0 +1,13 @@
+{
+  "package_name": "eyantrasim_msgs",
+  "non_idl_tuples": [
+    "/home/harry/hb_ws/src/eyrc-25-26-holo-battalion/eyantrasim_msgs:msg/Color.msg",
+    "/home/harry/hb_ws/src/eyrc-25-26-holo-battalion/eyantrasim_msgs:msg/Pose.msg",
+    "/home/harry/hb_ws/src/eyrc-25-26-holo-battalion/eyantrasim_msgs:action/RotateAbsolute.action",
+    "/home/harry/hb_ws/src/eyrc-25-26-holo-battalion/eyantrasim_msgs:srv/Kill.srv",
+    "/home/harry/hb_ws/src/eyrc-25-26-holo-battalion/eyantrasim_msgs:srv/SetPen.srv",
+    "/home/harry/hb_ws/src/eyrc-25-26-holo-battalion/eyantrasim_msgs:srv/Spawn.srv",
+    "/home/harry/hb_ws/src/eyrc-25-26-holo-battalion/eyantrasim_msgs:srv/TeleportAbsolute.srv",
+    "/home/harry/hb_ws/src/eyrc-25-26-holo-battalion/eyantrasim_msgs:srv/TeleportRelative.srv"
+  ]
+}

@@ -1,0 +1,35 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from eyantrasim_msgs/srv/Spawn.srv
+// generated code does not contain a copyright notice
+
+
+module eyantrasim_msgs {
+  module srv {
+    struct Spawn_Request {
+      float x;
+
+      float y;
+
+      float theta;
+
+      uint8 r;
+
+      uint8 g;
+
+      uint8 b;
+
+      uint8 width;
+
+      @verbatim (language="comment", text=
+        "Optional. Index of the image to use (0-2). If -1 or out of range, will use random selection")
+      int32 image_index;
+
+      @verbatim (language="comment", text=
+        "Optional.  A unique name will be created and returned if this is empty")
+      string name;
+    };
+    struct Spawn_Response {
+      string name;
+    };
+  };
+};

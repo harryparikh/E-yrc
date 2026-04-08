@@ -1,0 +1,4 @@
+source;share/eyantrasim/local_setup.bash
+source;share/eyantrasim/local_setup.dsv
+source;share/eyantrasim/local_setup.sh
+source;share/eyantrasim/local_setup.zsh

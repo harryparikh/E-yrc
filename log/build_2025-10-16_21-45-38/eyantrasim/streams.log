@@ -1,0 +1,25 @@
+[0.018s] Invoking command in '/home/harry/hb_ws/build/eyantrasim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/harry/hb_ws/build/eyantrasim -- -j28 -l28
+[0.045s] Invoked command in '/home/harry/hb_ws/build/eyantrasim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/harry/hb_ws/build/eyantrasim -- -j28 -l28
+[0.054s] Invoking command in '/home/harry/hb_ws/build/eyantrasim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/harry/hb_ws/build/eyantrasim
+[0.060s] -- Install configuration: ""
+[0.060s] -- Execute custom install script
+[0.061s] -- Up-to-date symlink: /home/harry/hb_ws/install/eyantrasim/share/eyantrasim/launch/sim.launch.py
+[0.061s] -- Up-to-date symlink: /home/harry/hb_ws/install/eyantrasim/share/eyantrasim/launch/task1a_submission.launch.py
+[0.061s] -- Up-to-date symlink: /home/harry/hb_ws/install/eyantrasim/lib/eyantrasim/eyantrasim_node
+[0.061s] -- Up-to-date symlink: /home/harry/hb_ws/install/eyantrasim/lib/eyantrasim/sim_control.py
+[0.061s] -- Up-to-date symlink: /home/harry/hb_ws/install/eyantrasim/share/ament_index/resource_index/package_run_dependencies/eyantrasim
+[0.062s] -- Up-to-date symlink: /home/harry/hb_ws/install/eyantrasim/share/ament_index/resource_index/parent_prefix_path/eyantrasim
+[0.062s] -- Up-to-date symlink: /home/harry/hb_ws/install/eyantrasim/share/eyantrasim/environment/ament_prefix_path.sh
+[0.062s] -- Up-to-date symlink: /home/harry/hb_ws/install/eyantrasim/share/eyantrasim/environment/ament_prefix_path.dsv
+[0.062s] -- Up-to-date symlink: /home/harry/hb_ws/install/eyantrasim/share/eyantrasim/environment/path.sh
+[0.062s] -- Up-to-date symlink: /home/harry/hb_ws/install/eyantrasim/share/eyantrasim/environment/path.dsv
+[0.062s] -- Up-to-date symlink: /home/harry/hb_ws/install/eyantrasim/share/eyantrasim/local_setup.bash
+[0.062s] -- Up-to-date symlink: /home/harry/hb_ws/install/eyantrasim/share/eyantrasim/local_setup.sh
+[0.062s] -- Up-to-date symlink: /home/harry/hb_ws/install/eyantrasim/share/eyantrasim/local_setup.zsh
+[0.062s] -- Up-to-date symlink: /home/harry/hb_ws/install/eyantrasim/share/eyantrasim/local_setup.dsv
+[0.062s] -- Symlinking: /home/harry/hb_ws/install/eyantrasim/share/eyantrasim/package.dsv
+[0.075s] -- Up-to-date symlink: /home/harry/hb_ws/install/eyantrasim/share/ament_index/resource_index/packages/eyantrasim
+[0.075s] -- Up-to-date symlink: /home/harry/hb_ws/install/eyantrasim/share/eyantrasim/cmake/eyantrasimConfig.cmake
+[0.076s] -- Up-to-date symlink: /home/harry/hb_ws/install/eyantrasim/share/eyantrasim/cmake/eyantrasimConfig-version.cmake
+[0.076s] -- Up-to-date symlink: /home/harry/hb_ws/install/eyantrasim/share/eyantrasim/package.xml
+[0.083s] Invoked command in '/home/harry/hb_ws/build/eyantrasim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/harry/hb_ws/build/eyantrasim

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "hb_interfaces__py",
+		"source" : "/home/harry/hb_ws/build/hb_interfaces/hb_interfaces__py"
+	}
+}

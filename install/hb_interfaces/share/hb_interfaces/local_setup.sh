@@ -1,0 +1,1 @@
+/home/harry/hb_ws/build/hb_interfaces/ament_cmake_environment_hooks/local_setup.sh
