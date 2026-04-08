@@ -1,0 +1,6 @@
+Invoking command in '/home/harry/hb_ws2/build/hb_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/harry/hb_ws2/src/eyrc-25-26-holo-battalion/hb_control -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/hb_ws2/install/hb_control
+Invoked command in '/home/harry/hb_ws2/build/hb_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/harry/hb_ws2/src/eyrc-25-26-holo-battalion/hb_control -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/hb_ws2/install/hb_control
+Invoking command in '/home/harry/hb_ws2/build/hb_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/harry/hb_ws2/build/hb_control -- -j28 -l28
+Invoked command in '/home/harry/hb_ws2/build/hb_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/harry/hb_ws2/build/hb_control -- -j28 -l28
+Invoking command in '/home/harry/hb_ws2/build/hb_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/harry/hb_ws2/build/hb_control
+Invoked command in '/home/harry/hb_ws2/build/hb_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/harry/hb_ws2/build/hb_control

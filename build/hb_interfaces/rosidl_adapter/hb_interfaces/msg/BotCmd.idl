@@ -1,0 +1,22 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from hb_interfaces/msg/BotCmd.msg
+// generated code does not contain a copyright notice
+
+
+module hb_interfaces {
+  module msg {
+    struct BotCmd {
+      int32 id;
+
+      float m1;
+
+      float m2;
+
+      float m3;
+
+      float base;
+
+      float elbow;
+    };
+  };
+};

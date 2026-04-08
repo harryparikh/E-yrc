@@ -1,0 +1,1 @@
+/home/harry/hb_ws2/build/hb_interfaces/rosidl_typesupport_fastrtps_cpp/hb_interfaces/msg/detail/bot_cmd__rosidl_typesupport_fastrtps_cpp.hpp

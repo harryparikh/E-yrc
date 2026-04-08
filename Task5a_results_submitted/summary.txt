@@ -1,0 +1,18 @@
+============================================================
+LIVE PLOTTER - TASK SUMMARY
+============================================================
+
+Final Score: 25.0/25
+Status: EXCELLENT
+
+Details:
+  - Red boxes in D1: 2/2
+  - Green boxes in D2: 2/2
+  - Total deliveries: 4/4
+  - Collisions: 0
+  - Collision penalty: -0 marks
+
+Remarks: Delivered 2/2 red boxes to D1; Delivered 2/2 green boxes to D2; Total collisions: 0
+
+
+============================================================

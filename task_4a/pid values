@@ -1,0 +1,11 @@
+id 0: self.pid_x = PID(2.2, 0.007, 0, self.max_vel)
+        self.pid_y = PID(2.5, 0.008, 0.01, self.max_vel)
+        self.pid_theta = PID(40, 0.002, 0.1, self.max_vel * 2)
+        
+id 2: self.pid_x = PID(2.1, 0.008, 0, self.max_vel)
+        self.pid_y = PID(2.7, 0.008, 0.01, self.max_vel)
+        self.pid_theta = PID(40, 0.006, 0.1, self.max_vel * 2)
+        
+id 4: self.pid_x = PID(2.1, 0.008, 0, self.max_vel)
+        self.pid_y = PID(2.7, 0.008, 0.01, self.max_vel)
+        self.pid_theta = PID(40, 0.006, 0.1, self.max_vel * 2)

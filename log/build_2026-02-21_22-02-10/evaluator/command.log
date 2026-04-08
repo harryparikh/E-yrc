@@ -1,0 +1,6 @@
+Invoking command in '/home/harry/hb_ws2/build/evaluator': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/harry/hb_ws2/src/eyrc-25-26-holo-battalion/evaluator -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/hb_ws2/install/evaluator
+Invoked command in '/home/harry/hb_ws2/build/evaluator' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/harry/hb_ws2/src/eyrc-25-26-holo-battalion/evaluator -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/hb_ws2/install/evaluator
+Invoking command in '/home/harry/hb_ws2/build/evaluator': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/harry/hb_ws2/build/evaluator -- -j28 -l28
+Invoked command in '/home/harry/hb_ws2/build/evaluator' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/harry/hb_ws2/build/evaluator -- -j28 -l28
+Invoking command in '/home/harry/hb_ws2/build/evaluator': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/harry/hb_ws2/build/evaluator
+Invoked command in '/home/harry/hb_ws2/build/evaluator' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/harry/hb_ws2/build/evaluator

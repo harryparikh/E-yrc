@@ -1,0 +1,20 @@
+============================================================
+TASK 5B - TASK SUMMARY
+============================================================
+
+Final Score: 75/75
+Status: EXCELLENT
+
+Points Breakdown:
+  + Red box deliveries: 45 pts (3/3 boxes × 15)
+  + Green box deliveries: 15 pts (1/1 boxes × 15)
+  + Stacking bonus: +15 pts
+  - Collision penalty: -0 pts (0 collisions × 5)
+  = Total: 75.00 pts
+
+Stacked Red Boxes: [12, 21, 30]
+
+Remarks: Delivered 3/3 red boxes to D1 (45 pts); Delivered 1/1 green box to D2 (15 pts); Stacked red crates bonus: +15 pts; Total collisions: 0 (-0 pts)
+
+
+============================================================

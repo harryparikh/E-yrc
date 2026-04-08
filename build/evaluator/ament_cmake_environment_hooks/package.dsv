@@ -1,0 +1,4 @@
+source;share/evaluator/local_setup.bash
+source;share/evaluator/local_setup.dsv
+source;share/evaluator/local_setup.sh
+source;share/evaluator/local_setup.zsh

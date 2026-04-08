@@ -1,0 +1,1 @@
+/home/harry/hb_ws2/build/hb_interfaces/rosidl_generator_py/hb_interfaces/msg/_bot_cmd_array_s.c

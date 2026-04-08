@@ -1,0 +1,29 @@
+{
+  "package_name": "hb_interfaces",
+  "output_dir": "/home/harry/hb_ws2/build/hb_interfaces/rosidl_typesupport_c/hb_interfaces",
+  "template_dir": "/opt/ros/humble/share/rosidl_typesupport_c/resource",
+  "idl_tuples": [
+    "/home/harry/hb_ws2/build/hb_interfaces/rosidl_adapter/hb_interfaces:msg/Pose2D.idl",
+    "/home/harry/hb_ws2/build/hb_interfaces/rosidl_adapter/hb_interfaces:msg/Poses2D.idl",
+    "/home/harry/hb_ws2/build/hb_interfaces/rosidl_adapter/hb_interfaces:msg/BotCmd.idl",
+    "/home/harry/hb_ws2/build/hb_interfaces/rosidl_adapter/hb_interfaces:msg/BotCmdArray.idl"
+  ],
+  "ros_interface_dependencies": [
+    "builtin_interfaces:/opt/ros/humble/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/opt/ros/humble/share/builtin_interfaces/msg/Time.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/lib/rosidl_typesupport_c/rosidl_typesupport_c",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_typesupport_c/__init__.py",
+    "/opt/ros/humble/share/rosidl_typesupport_c/resource/action__type_support.c.em",
+    "/opt/ros/humble/share/rosidl_typesupport_c/resource/idl__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_c/resource/msg__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_c/resource/srv__type_support.cpp.em",
+    "/home/harry/hb_ws2/build/hb_interfaces/rosidl_adapter/hb_interfaces/msg/Pose2D.idl",
+    "/home/harry/hb_ws2/build/hb_interfaces/rosidl_adapter/hb_interfaces/msg/Poses2D.idl",
+    "/home/harry/hb_ws2/build/hb_interfaces/rosidl_adapter/hb_interfaces/msg/BotCmd.idl",
+    "/home/harry/hb_ws2/build/hb_interfaces/rosidl_adapter/hb_interfaces/msg/BotCmdArray.idl",
+    "/opt/ros/humble/share/builtin_interfaces/msg/Duration.idl",
+    "/opt/ros/humble/share/builtin_interfaces/msg/Time.idl"
+  ]
+}

@@ -1,0 +1,6 @@
+Invoking command in '/home/harry/hb_ws2/build/hb_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/harry/hb_ws2/src/eyrc-25-26-holo-battalion/hb_interfaces -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/hb_ws2/install/hb_interfaces
+Invoked command in '/home/harry/hb_ws2/build/hb_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/harry/hb_ws2/src/eyrc-25-26-holo-battalion/hb_interfaces -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/hb_ws2/install/hb_interfaces
+Invoking command in '/home/harry/hb_ws2/build/hb_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/harry/hb_ws2/build/hb_interfaces -- -j28 -l28
+Invoked command in '/home/harry/hb_ws2/build/hb_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/harry/hb_ws2/build/hb_interfaces -- -j28 -l28
+Invoking command in '/home/harry/hb_ws2/build/hb_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/harry/hb_ws2/build/hb_interfaces
+Invoked command in '/home/harry/hb_ws2/build/hb_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/harry/hb_ws2/build/hb_interfaces

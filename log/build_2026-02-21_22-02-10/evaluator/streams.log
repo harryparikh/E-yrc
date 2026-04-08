@@ -1,0 +1,73 @@
+[0.015s] Invoking command in '/home/harry/hb_ws2/build/evaluator': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/harry/hb_ws2/src/eyrc-25-26-holo-battalion/evaluator -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/hb_ws2/install/evaluator
+[0.078s] -- The C compiler identification is GNU 11.4.0
+[0.134s] -- The CXX compiler identification is GNU 11.4.0
+[0.143s] -- Detecting C compiler ABI info
+[0.206s] -- Detecting C compiler ABI info - done
+[0.213s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.213s] -- Detecting C compile features
+[0.214s] -- Detecting C compile features - done
+[0.217s] -- Detecting CXX compiler ABI info
+[0.286s] -- Detecting CXX compiler ABI info - done
+[0.296s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.296s] -- Detecting CXX compile features
+[0.296s] -- Detecting CXX compile features - done
+[0.300s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.446s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.506s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.525s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.589s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.590s] -- Added test 'lint_cmake' to check CMake code style
+[0.590s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.592s] -- Added test 'xmllint' to check XML markup files
+[0.593s] -- Configuring done
+[0.594s] -- Generating done
+[0.595s] -- Build files have been written to: /home/harry/hb_ws2/build/evaluator
+[0.601s] Invoked command in '/home/harry/hb_ws2/build/evaluator' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/harry/hb_ws2/src/eyrc-25-26-holo-battalion/evaluator -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/harry/hb_ws2/install/evaluator
+[0.602s] Invoking command in '/home/harry/hb_ws2/build/evaluator': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/harry/hb_ws2/build/evaluator -- -j28 -l28
+[0.640s] Invoked command in '/home/harry/hb_ws2/build/evaluator' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/harry/hb_ws2/build/evaluator -- -j28 -l28
+[0.649s] Invoking command in '/home/harry/hb_ws2/build/evaluator': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/harry/hb_ws2/build/evaluator
+[0.655s] -- Install configuration: ""
+[0.655s] -- Execute custom install script
+[0.656s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task4a/pyarmor_runtime_000000/__init__.py
+[0.664s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task4a/pyarmor_runtime_000000/pyarmor_runtime.so
+[0.671s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task4a/task4a.py
+[0.679s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task4b/pyarmor_runtime_000000/__init__.py
+[0.688s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task4b/pyarmor_runtime_000000/pyarmor_runtime.so
+[0.698s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task4b/task4b.py
+[0.708s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task5a/pyarmor_runtime_000000/__init__.py
+[0.715s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task5a/pyarmor_runtime_000000/__pycache__/__init__.cpython-310.pyc
+[0.723s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task5a/pyarmor_runtime_000000/pyarmor_runtime.so
+[0.731s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task5a/task5a.py
+[0.742s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task5b/pyarmor_runtime_000000/__init__.py
+[0.749s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task5b/pyarmor_runtime_000000/__pycache__/__init__.cpython-310.pyc
+[0.758s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task5b/pyarmor_runtime_000000/pyarmor_runtime.so
+[0.765s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task5b/task5b.py
+[0.775s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task6a/pyarmor_runtime_000000/__init__.py
+[0.782s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task6a/pyarmor_runtime_000000/__pycache__/__init__.cpython-310.pyc
+[0.793s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task6a/pyarmor_runtime_000000/pyarmor_runtime.so
+[0.801s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task6a/task6a.py
+[0.808s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task6b/pyarmor_runtime_000000/__init__.py
+[0.815s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task6b/pyarmor_runtime_000000/pyarmor_runtime.so
+[0.823s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//task6b/task6b.py
+[0.831s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//launch/task4a.launch.py
+[0.838s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//launch/task4b.launch.py
+[0.845s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//launch/task5a.launch.py
+[0.854s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//launch/task5b.launch.py
+[0.862s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//launch/task6a.launch.py
+[0.872s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator//launch/task6b.launch.py
+[0.882s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/ament_index/resource_index/package_run_dependencies/evaluator
+[0.890s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/ament_index/resource_index/parent_prefix_path/evaluator
+[0.899s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator/environment/ament_prefix_path.sh
+[0.906s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator/environment/ament_prefix_path.dsv
+[0.914s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator/environment/path.sh
+[0.920s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator/environment/path.dsv
+[0.927s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator/local_setup.bash
+[0.938s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator/local_setup.sh
+[0.946s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator/local_setup.zsh
+[0.953s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator/local_setup.dsv
+[0.962s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator/package.dsv
+[0.972s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/ament_index/resource_index/packages/evaluator
+[0.982s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator/cmake/evaluatorConfig.cmake
+[0.988s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator/cmake/evaluatorConfig-version.cmake
+[0.996s] -- Symlinking: /home/harry/hb_ws2/install/evaluator/share/evaluator/package.xml
+[1.009s] Invoked command in '/home/harry/hb_ws2/build/evaluator' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/harry/hb_ws2/build/evaluator

@@ -1,0 +1,4 @@
+source;share/hb_description/local_setup.bash
+source;share/hb_description/local_setup.dsv
+source;share/hb_description/local_setup.sh
+source;share/hb_description/local_setup.zsh

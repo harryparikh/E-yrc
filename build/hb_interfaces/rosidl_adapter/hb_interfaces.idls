@@ -1,0 +1,4 @@
+/home/harry/hb_ws2/build/hb_interfaces/rosidl_adapter/hb_interfaces:msg/Pose2D.idl
+/home/harry/hb_ws2/build/hb_interfaces/rosidl_adapter/hb_interfaces:msg/Poses2D.idl
+/home/harry/hb_ws2/build/hb_interfaces/rosidl_adapter/hb_interfaces:msg/BotCmd.idl
+/home/harry/hb_ws2/build/hb_interfaces/rosidl_adapter/hb_interfaces:msg/BotCmdArray.idl
